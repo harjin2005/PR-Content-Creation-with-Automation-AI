@@ -1,0 +1,16 @@
+{
+  "client_name": "AcmeCo",
+  "tone": {
+    "formality": "formal",
+    "voice": "confident, authoritative, direct"
+  },
+  "messaging_pillars": [
+    "Customer trust",
+    "Regulatory compliance", 
+    "Measured innovation"
+  ],
+  "style_guidelines": {
+    "do": ["Use active voice", "Lead with benefits", "Include proof"],
+    "dont": ["No hype language", "No unverified claims"]
+  }
+}
